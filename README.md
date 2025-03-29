@@ -6,7 +6,7 @@ This is the backend for the phonebook application.
 
 You can access the deployed backend at the following URL:
 
-[Phonebook Backend](https://phonebook-backend-k655.onrender.com/)  
+[Phonebook Backend](https://phonebook-backend-k655.onrender.com)  
 
 ## How to Run Locally
 

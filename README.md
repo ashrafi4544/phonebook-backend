@@ -2,7 +2,7 @@
 
 You can access the deployed backend at the following URL:
 
-[Phonebook Backend](https://phonebook-backend-k655.onrender.com)  
+[Phonebook Backend](https://phonebook-backend-2czf.onrender.com/)  
 # 📞 Phonebook Backend (Exercises 3.1–3.11)
 
 This project is a backend implementation of a phonebook application built using **Node.js** and **Express** as part of the [Fullstack Open](https://fullstackopen.com/en/) course. The app provides a simple REST API for managing phonebook entries, with support for CRUD operations, middleware logging, error handling, and production deployment.
